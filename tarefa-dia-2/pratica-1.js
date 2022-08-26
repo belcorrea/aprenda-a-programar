@@ -1,5 +1,5 @@
-Nome Isabel Correa
-Email isabelmrcorrea@gmail.com
-Profissao Dona de Casa 
-Idade 36 Anos 
-Lugar onde deseja conhecer Todo Territorio Nacional 
+let nome = "IsabelCorrea"
+let email = "isabelmrcorrea@gmail.com"
+let profissao = "donaDeCasa" 
+let idade = "36" 
+let lugarOndeDesejaConhecer = "TodoTerritorioNacional"
