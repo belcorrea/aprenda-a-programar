@@ -1,5 +1,5 @@
-console.log("Isabel Correa")
-console.log("isabelmrcorrea@gmail.com")
-console.log("Dona de Casa")
-console.log("36 anos")
-console.log("Todo o territorio Brasileiro")
+Nome Isabel Correa
+Email isabelmrcorrea@gmail.com
+Profissao Dona de Casa 
+Idade 36 Anos 
+Lugar onde deseja conhecer Todo Territorio Nacional 
