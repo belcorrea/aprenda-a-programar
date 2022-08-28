@@ -8,9 +8,11 @@
 8
 9
 
-let n = 1
+let i = 1
 
-while (n <= 9) {
-    console.log (n)
-    n = n + 1
+let n = 9
+
+while (i <= n) {
+    console.log (i)
+    i = i + 1
     }
